@@ -1,6 +1,6 @@
 # dojo-zebra
 
-We will be trying to solve the following logic puzzle, taken from (Rosetta Code)[https://rosettacode.org/wiki/Zebra_puzzle]:
+We will be trying to solve the following logic puzzle, taken from [Rosetta Code](https://rosettacode.org/wiki/Zebra_puzzle):
 
 
 The Zebra puzzle, a.k.a. Einstein's Riddle, is a logic puzzle which is to be solved programmatically.
